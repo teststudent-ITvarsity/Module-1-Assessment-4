@@ -1,0 +1,42 @@
+h1{
+    color: green;
+    font-size: 70px;
+    font-family: Helvetica, sans-serif;
+    text-align: center;
+    
+}
+
+h2{
+    color: blue;
+    font-family: Helvetica, sans-serif;
+    text-align: right;   
+    
+}
+
+h3{
+    font-family: Comic Sans, Comic Sans MC, cursive;
+    
+}
+
+P{
+    font-weight: 800;
+    text-decoration: line-through;
+}
+
+table{
+    font-family: Helvetica, sans-serif;
+    border-collapse: collapse;
+    border-width: 1px;
+    border-style: solid;
+    border-color: #2695A6;
+}
+th{
+    font-weight: 800; 
+    background-color : #2695A6;
+    color: #ffffff;
+}
+td{
+    font-weight: 400;
+    background-color: aqua;
+    
+}
